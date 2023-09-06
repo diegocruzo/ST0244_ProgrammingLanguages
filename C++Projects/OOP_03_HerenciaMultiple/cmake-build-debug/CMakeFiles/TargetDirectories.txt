@@ -1,0 +1,3 @@
+D:/Fullstack/ST0244_ProgrammingLanguages/C++Projects/OOP_03_HerenciaMultiple/cmake-build-debug/CMakeFiles/HerenciaMultiple.dir
+D:/Fullstack/ST0244_ProgrammingLanguages/C++Projects/OOP_03_HerenciaMultiple/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Fullstack/ST0244_ProgrammingLanguages/C++Projects/OOP_03_HerenciaMultiple/cmake-build-debug/CMakeFiles/rebuild_cache.dir
