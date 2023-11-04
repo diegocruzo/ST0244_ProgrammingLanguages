@@ -11,5 +11,6 @@ public class Main {
         garfield.alimentarse();
         System.out.println(garfield.recorridoEnMetrosPorSegundo());
         garfield.amamantar();
+
     }
 }

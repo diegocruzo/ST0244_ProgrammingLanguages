@@ -1,7 +1,9 @@
 public class Perro extends Mamifero implements Animal{
 
+    private String color;
     public Perro(String nombre) {
         super(nombre, "Perro");
+        this.color = Animal.color;
     }
 
     @Override
