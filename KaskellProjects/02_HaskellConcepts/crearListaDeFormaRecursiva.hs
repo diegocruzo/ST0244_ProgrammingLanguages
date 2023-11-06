@@ -9,3 +9,5 @@ crearListaOpt x y =
         then y
     else crearListaOpt z (z:y)
         where z = x - 1
+
+        

@@ -1,5 +1,4 @@
-import Text.XHtml (face)
--- Optimización de una cola
+-- Optimización de la llamada de cola
 
 sumaNumeros x = 
     if x == 0
@@ -20,5 +19,3 @@ factorialOpt x y =
     if x == 1
         then y
     else factorialOpt (x - 1) (x * y)
-
-
